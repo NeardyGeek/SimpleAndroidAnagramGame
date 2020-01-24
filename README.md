@@ -1,5 +1,4 @@
-# SimpleTodo
-# Project 1 - *Simple Todo*
+# Simple anagram game
 
 **Simple anagram** is an android app that allows building an anagram game that users can play against computer.
 
